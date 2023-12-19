@@ -1,0 +1,60 @@
+class Images {
+  static const String imgChair = "assets/images/img_chair.png";
+  static const String imgChangePassword =
+      "assets/images/img_change_password.svg";
+  static const String imgConnection = "assets/images/img_connection.png";
+  static const String imgForgot = "assets/images/img_forgot.svg";
+  static const String imgLogin = "assets/images/img_login.svg";
+  static const String imgLogo = "assets/images/img_logo.svg";
+  static const String imgOnBoarding1 = "assets/images/img_onboarding_1.svg";
+  static const String imgOnBoarding2 = "assets/images/img_onboarding_2.svg";
+  static const String imgOnBoarding3 = "assets/images/img_onboarding_3.svg";
+  static const String imgShoes = "assets/images/img_shoes.png";
+  static const String imgVerify = "assets/images/img_verify.svg";
+  static const String imgWatch = "assets/images/img_watch.png";
+  static const String imgLogoWithText = "assets/images/img_logo_with_text.svg";
+  static const String imgCard = "assets/images/img_card.png";
+  static const String imgProfile = "assets/images/img_profile.png";
+  static const String imgForgotPassword = "assets/images/img_forgot_password.svg";
+
+  // Icons
+  static const String iconAdd = "assets/icons/ic_add.svg";
+  static const String iconApple = "assets/icons/ic_apple.svg";
+  static const String iconArrowBack = "assets/icons/ic_arrow_back.svg";
+  static const String iconArrowForward = "assets/icons/ic_arrow_forward.svg";
+  static const String iconBadge = "assets/icons/ic_badge.png";
+  static const String iconBadgeGold = "assets/icons/ic_badge_gold.svg";
+  static const String iconBadgePlatinum = "assets/icons/ic_badge_platinum.svg";
+  static const String iconBadgeStarter = "assets/icons/ic_badge_starter.svg";
+  static const String iconBadgeTitanium = "assets/icons/ic_badge_titanium.svg";
+  static const String iconChat = "assets/icons/ic_chat.svg";
+  static const String iconCheck = "assets/icons/ic_check.svg";
+  static const String iconClose = "assets/icons/ic_close.svg";
+  static const String iconDeleteCircle = "assets/icons/ic_delete_circle.svg";
+  static const String iconEmail = "assets/icons/ic_email.svg";
+  static const String iconFavorite = "assets/icons/ic_favorite.svg";
+  static const String iconFavoriteFill = "assets/icons/ic_favorite_fill.svg";
+  static const String iconGoogle = "assets/icons/ic_google.svg";
+  static const String iconHome = "assets/icons/ic_home.svg";
+  static const String iconHomeFill = "assets/icons/ic_home_fill.svg";
+  static const String iconLock = "assets/icons/ic_lock.svg";
+  static const String iconLogout = "assets/icons/ic_logout.svg";
+  static const String iconPencil = "assets/icons/ic_pencil.svg";
+  static const String iconPencilCircle = "assets/icons/ic_pencil_circle.svg";
+  static const String iconPerson = "assets/icons/ic_person.svg";
+  static const String iconPrivacy = "assets/icons/ic_privacy.svg";
+  static const String iconSearch = "assets/icons/ic_search.svg";
+  static const String iconSetting = "assets/icons/ic_setting.svg";
+  static const String iconSettingFill = "assets/icons/ic_setting_fill.svg";
+  static const String iconSubscription = "assets/icons/ic_subscription.svg";
+  static const String iconTick = "assets/icons/ic_tick.svg";
+  static const String iconUser = "assets/icons/ic_user.svg";
+  static const String iconDone = "assets/icons/ic_done.svg";
+  static const String iconPhone = "assets/icons/ic_phone.svg";
+  static const String iconAddress = "assets/icons/ic_address.svg";
+  static const String iconBell = "assets/icons/ic_bell.svg";
+  static const String iconBellFill = "assets/icons/ic_bell_fill.svg";
+  static const String iconLockCircle = "assets/icons/ic_lock_circle.svg";
+  static const String iconLogoutCircle = "assets/icons/ic_logout_circle.svg";
+  static const String iconPasteLink = "assets/icons/ic_paste_link.svg";
+}
